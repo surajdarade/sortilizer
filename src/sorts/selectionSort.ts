@@ -1,4 +1,4 @@
-import infoSelectionSort from '../components/information/infoSelectionSort.tsx';
+import infoSelectionSort from '../components/info/infoSelectionSort.tsx';
 import {SortingAlgorithm, AnimationStep, isSmaller, swap } from './algorithms';
 
 const sort = (array: number[]) => {

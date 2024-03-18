@@ -1,4 +1,4 @@
-import infoHeapSort from "../components/information/infoHeapSort.tsx";
+import infoHeapSort from "../components/info/infoHeapSort.tsx";
 import { AnimationStep, swap, isSmaller, SortingAlgorithm } from "./algorithms.ts";
 
 const sort = (array: number[]) => {
